@@ -1,0 +1,5 @@
+train: D:/pre pe/code/trainingcrew/dataset/images/preprocessed_train
+val: D:/pre pe/code/trainingcrew/dataset/images/val
+
+nc: 10
+names: ['class_0', 'class_1', 'class_2','class_3','class_4','class_5','class_6','class_7','class_8','class_9']
